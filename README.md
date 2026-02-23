@@ -18,6 +18,9 @@ Admin has all the advantage of page and has data about sellers. Administrator ad
 Order page has every one of the insights regarding orders that are given by clients. 
 Dashboard gives every one of the current insights regarding every one of the orders, items, and sellers.
 
+File Structure:
+
+<img width="227" height="642" alt="Screenshot 2026-02-23 at 11 39 13 AM" src="https://github.com/user-attachments/assets/564f2696-31f9-46c2-ba40-f6804e388222" />
 
 Frontend Technologies:
 
@@ -55,6 +58,13 @@ Databases:
 
 Backend Technologies:
 A collection of programming languages and structures are associated with building the software also known as back-end. I have utilized Django as web system which is written in python programming language. I have additionally utilized XAMPP as my web worker stage for my information base which permit to chip away at a neighborhood worker and test nearby duplicate of my site.
+
+
+<img width="626" height="323" alt="Screenshot 2026-02-23 at 11 40 16 AM" src="https://github.com/user-attachments/assets/5f60a33e-a56d-4d13-a9c9-96baa8b635ac" />
+
+<img width="624" height="314" alt="Screenshot 2026-02-23 at 11 40 43 AM" src="https://github.com/user-attachments/assets/8d1d8cff-2e7d-4824-a93d-0b080dd61d2a" />
+
+<img width="621" height="518" alt="Screenshot 2026-02-23 at 11 41 02 AM" src="https://github.com/user-attachments/assets/e97274f6-27f5-4746-9597-718c32aa5bf0" />
 
 Issues during the project development:
 
